@@ -68,6 +68,9 @@ I'm a Computer Science bachelor student.
   </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="25" height="25"/>
+  </a>
+  <a href="https://notion.so">
+    <img src="https://www.notion.so/cdn-cgi/image/format=auto,width=100,quality=100/front-static/shared/icons/notion-app-icon-3d.png" alt="notion" width="25" height="25">
   </a>  
  </p>
  
@@ -78,5 +81,8 @@ I'm a Computer Science bachelor student.
   </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="25" height="25"/>  
+  </a>
+  <a href="https://github.com/neovim/neovim" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/neovim/neovim/master/runtime/nvim.png" alt="neovim" width="25" height="25"/>  
   </a>
 </p>
