@@ -25,10 +25,9 @@ I'm a Computer Science bachelor student.
 
 - 📚 Frameworks that help me out
 <p align="left">
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-</a>
-
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+  </a>
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
   </a>
@@ -75,7 +74,7 @@ I'm a Computer Science bachelor student.
  - 🖊️ What I like to use for programming/editing
 <p align="left">
   <a href="https://vscodium.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/VSCodium/vscodium/master/icons/codium_only.svg" alt="codium" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/VSCodium/vscodium/9c8d4b367dadb4a4b007285a737233b8ee3cdf86/icons/stable/codium_only.svg" alt="codium" width="40" height="40"/>
   </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>  
