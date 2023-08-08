@@ -6,7 +6,7 @@
 I'm a Computer Science bachelor student.
 
 * :office: I'm currently working at [falch GmbH](https://falch.com)
-* :seedling: I'm currently learning how to costumize my linux setup
+* :seedling: I'm currently learning how to customize my linux setup
 * :mailbox: How to reach me: [LinkedIn](https://www.linkedin.com/in/thibault-rey-42536823b/)
 * :zap: Fun fact: Big fan of [gitmoji](https://gitmoji.dev/)
 
