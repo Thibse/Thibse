@@ -7,7 +7,7 @@ I'm a Junior Software Developer.
 * 🎓 I completed my Bachelor's degree in Computer Science in 2023
 * 🏢 I'm currently working at [falch GmbH](https://falch.com)
 * 🌱 I'm currently focussing on frontend development with [Typescript](https://www.typescriptlang.org/) and [Vue](https://vuejs.org/)
-* 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/thibault-rey-42536823b/)
+* 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/th-rey)
 * ⚡ Fun fact: Big fan of [gitmoji](https://gitmoji.dev/)
 
 <br/>
