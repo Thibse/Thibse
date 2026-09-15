@@ -4,9 +4,9 @@
 
 I'm a Junior Software Developer.
 
-* 🎓 I am currently pursuing a master's degree in embedded systems engineering.
-* 🏢 I'm currently working at [falch GmbH](https://falch.com)
-* 🌱 I'm currently focussing on frontend development with [Typescript](https://www.typescriptlang.org/) and [Vue](https://vuejs.org/)
+* 🎓 I am pursuing a master's degree in embedded systems engineering.
+* 🏢 I'm working at [falch GmbH](https://falch.com)
+* 🌱 I'm focussing on frontend development with [Typescript](https://www.typescriptlang.org/) and [Vue](https://vuejs.org/)
 * 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/th-rey)
 
 <br/>
